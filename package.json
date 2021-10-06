@@ -1,0 +1,16 @@
+{
+  "name": "timetable",
+  "version": "1.0.0",
+  "description": "timetable OshSu",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Tima",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.54.0",
+    "nodemon": "^2.0.13"
+  }
+}
